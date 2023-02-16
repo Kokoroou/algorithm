@@ -1,2 +1,7 @@
-# algorithm
-Code for some famous algorithm
+# Algorithm
+
+## Introduction
+Code for some famous algorithms
+
+## Available
+- [x] Find Hamiltonian path
